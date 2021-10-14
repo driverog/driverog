@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🌱 I’m currently a Computer Science student at University of Havana.
+
+😄 I enjoy playing video games, researching and c000d111ng !.
+
 <!--
 **driverog/driverog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

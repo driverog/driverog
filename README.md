@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently a Computer Science student at University of Havana.
+🌱 Studied Computer Science at University of Havana
 
 😄 I enjoy playing video games, researching and c000d111ng!
 
